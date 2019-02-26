@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.sass';
+import '../src/App.sass';
 import Titles from './components/Titles'
 import Form from './components/Form'
 import Weather from './components/Weather'

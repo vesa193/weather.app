@@ -6,9 +6,7 @@ import marker from '../fa-icons/marker.svg'
 
 
 class Weather extends Component {
-    constructor(props) {
-        super(props)
-    }
+    
     render() {
         const image = '../water.png'
         console.log(image)
